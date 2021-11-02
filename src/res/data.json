@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "title": "Title-1",
+            "message": "This is the message for Title-1",
+            "status": "UNREAD"
+        },
+        {
+            "title": "Title-2",
+            "message": "This is the message for Title-2",
+            "status": "UNREAD"
+        },
+        {
+            "title": "Title-3",
+            "message": "This is the message for Title-3",
+            "status": "UNREAD"
+        },
+        {
+            "title": "Title-4",
+            "message": "This is the message for Title-4",
+            "status": "READ"
+        },
+        {
+            "title": "Title-5",
+            "message": "This is the message for Title-5",
+            "status": "READ"
+        }
+    ]
+}
