@@ -15,6 +15,17 @@ After running the above command, run the below command to run application and se
 npm run start
 ```
 
+# Screenshots
+This are the screenshots of the application that I just developed for your references as below:
+1. This is the default home page of the appliation where the json initially has 3 unread notifications as reflected as the badge
+<img src="https://github.com/dishant9397/swot-notification-application/blob/master/src/res/screenshots/home_page.png" height="50%" width="50%"/>
+
+2. This is the another example when we click the notification icon and we can still see the number of notifications that are not read yet but will be when we again click the icon
+<img src="https://github.com/dishant9397/swot-notification-application/blob/master/src/res/screenshots/open_notification_menu.png" height="50%" width="50%"/>
+
+3. This is the final screenshot when we again click the notification icon to dismiss all the unread notifications and hence the count will be 0 this time
+<img src="https://github.com/dishant9397/swot-notification-application/blob/master/src/res/screenshots/default_notification_menu.png" height="50%" width="50%"/>
+
 # Limitations
 There are no limitations to run this application as of now.
 
